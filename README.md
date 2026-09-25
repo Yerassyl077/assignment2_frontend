@@ -3,14 +3,14 @@ Name: Nauryzgali Yerassyl
 Group: IT-2513
 
 Task 0 & 1: Flexbox (Navigation Bar and Card Row)
-<img width="1920" height="1080" alt="Снимок экрана (222)" src="https://github.com/user-attachments/assets/62d5a8df-343c-48da-98d9-53b24c46e0ad" />
+<img width="1919" height="964" alt="photo_5309868884548591333_w" src="https://github.com/user-attachments/assets/c021f74d-dd5c-44a1-bd85-6e40614222e8" />
 
 Task 2 & 3: Grid System (Page Layout and Image Gallery)
-<img width="1920" height="1080" alt="Снимок экрана (223)" src="https://github.com/user-attachments/assets/a2920db6-5b54-4303-b27b-cd939ed46260" />
-<img width="1920" height="1080" alt="Снимок экрана (225)" src="https://github.com/user-attachments/assets/98ce46e7-7f72-48ed-9103-f0d45373c4ce" />
+<img width="1919" height="962" alt="photo_5309868884548591335_w" src="https://github.com/user-attachments/assets/b072f7f0-9582-4303-a4ab-7640ee5d3d54" />
+<img width="1919" height="956" alt="photo_5309868884548591336_w" src="https://github.com/user-attachments/assets/34097c5d-823f-4fca-8c75-33f129e5926c" />
 
 Task 4: Combining Flexbox & Grid (Portfolio Page)
-<img width="1920" height="1080" alt="Снимок экрана (226)" src="https://github.com/user-attachments/assets/6598a632-ec2c-4b02-a8b7-c2dac4c693cb" />
+<img width="1919" height="959" alt="photo_5309868884548591337_w" src="https://github.com/user-attachments/assets/6fbd63f4-89f2-46c7-abcf-5f57b2adaf52" />
 
 Summary of Work Process
 
